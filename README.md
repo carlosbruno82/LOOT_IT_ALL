@@ -11,10 +11,12 @@
 - Animações processuais e partículas: Vamos aprender a criar animações usando código para fazer os itens flutuarem e torná-los visualmente mais atraentes com brilhos crescentes.
 
 
-<img src="">
+<img src="https://github.com/carlosbruno82/LOOT_IT_ALL/blob/main/github/health_bar_heals_ship.gif">
 
-## O que aprendi neste módulo:
-
+## O que aprendi neste momento:
+- Como usar uma função para atualizar o valor da barra de integridade quando a integridade do navio muda, tornando o código mais organizado e mais fácil de manter.
+- Como acessar nós que não são filhos diretos do nó do script usando o get_node() função.
+- Para usar o _ready() função para testar uma função e ver se ela funciona como esperado.
 
 <div style="text-align: right">
 

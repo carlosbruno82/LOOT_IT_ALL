@@ -24,6 +24,19 @@
 - Para carregar, instanciar e adicionar cenas à árvore de cenas em tempo de execução.
 - Para gerar números e posições aleatórias.
 - Para acessar o tamanho da viewport para gerar colecionáveis dentro da janela do jogo.
+- Por padrão, todas as áreas detectam todas as outras áreas. Na verdade, todos os nós da física detectam todos os outros nós da física.
+- Você pode alterar a camada de colisão e a máscara dos nós de física para filtrar o que eles detectam.
+- O Camada a propriedade informa ao mecanismo de física de que grupos o nó faz parte.
+- O Máscara a propriedade informa ao mecanismo de física quais grupos o nó pode detectar.
+- Obtenha o tamanho da viewport.
+- Enrole o navio para o lado oposto da viewport quando a posição x ou y do navio for maior que o tamanho da viewport.
+- Enrole o navio para o lado oposto da janela de visualização quando a posição x ou y do navio for menor que 0
+- Você pode criar tweens para animar propriedades ao longo do tempo no código.
+- Você pode usar o tween set_loops() função para loop animações de interpolação.
+- Você pode usar funções de transição para alterar o tipo de transição da interpolação.
+- Você pode randomizar animações usando o randf_range() função e números aleatórios.
+
+
 
 <div style="text-align: right">
 

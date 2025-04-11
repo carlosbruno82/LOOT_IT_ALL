@@ -11,7 +11,7 @@
 - Animações processuais e partículas: Vamos aprender a criar animações usando código para fazer os itens flutuarem e torná-los visualmente mais atraentes com brilhos crescentes.
 
 
-<img src="https://github.com/carlosbruno82/LOOT_IT_ALL/blob/main/github/loot_it_all_03_spawning_collectibles.gif">
+<img src="https://github.com/carlosbruno82/LOOT_IT_ALL/blob/main/github/100_tween_float_animation.gif">
 
 ## O que aprendi neste momento:
 - Como usar uma função para atualizar o valor da barra de integridade quando a integridade do navio muda, tornando o código mais organizado e mais fácil de manter.
